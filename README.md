@@ -34,7 +34,7 @@ class Example extends Component {
   <ButtonPressed>Pressed Button</ButtonPressed>
 ```
 
-  ![Cevap1](Button.png)
+  ![Cevap1](Componentimage/Button.png)
 ## License
 
 MIT © [hberkayaktas](https://github.com/hberkayaktas)
