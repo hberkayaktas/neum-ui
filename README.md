@@ -4,6 +4,10 @@
 
 [![NPM](https://img.shields.io/npm/v/neum-ui.svg)](https://www.npmjs.com/package/neum-ui) [![JavaScript Style Guide](https://img.shields.io/badge/code_style-standard-brightgreen.svg)](https://standardjs.com)
 
+## Generals 
+
+![Cevap1](Componentimage/General1.png)
+![Cevap1](Componentimage/General2.png)
 ## Install
 
 ```bash
@@ -30,11 +34,12 @@ class Example extends Component {
 
   import {  Button,ButtonPressed } from 'neum-ui'
 ```jsx
-  <Button href={"hamiberkayaktas.tk"}>Bu bir buton</Button>
+  <Button href={"hamiberkayaktas.tk"}>This is Button</Button>
   <ButtonPressed>Pressed Button</ButtonPressed>
 ```
 
   ![Cevap1](Componentimage/Button.png)
+
 ## License
 
 MIT © [hberkayaktas](https://github.com/hberkayaktas)
